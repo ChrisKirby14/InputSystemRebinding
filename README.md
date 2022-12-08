@@ -1,5 +1,5 @@
 # Input System Rebinding
-Rebinding for Unity Input System C# generated code
+Rebinding for Unity Input System using C# generated code
 
 Input Manager needs to be added to an empty gameobject also add Rest All Bindings to it and 
 select the input action asset you want to use.
