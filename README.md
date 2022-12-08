@@ -10,13 +10,13 @@ Rebind Controls needs to stay active so the UI stays up to date. Create an empty
 all the names of your actions and add Rebind Controls script to all of them and select the right 
 Input actions reference.
 
-create a panel for rebind overlay and add text component to it for rebind overlay text.
+Create a panel for rebind overlay and add text component to it for rebind overlay text.
 Have the rebind overlay not active.
 
-create a reset to default button.
+Create a reset to default button.
 
 Drag in all relevant Text, Buttons and overlay into the correct Rebind controls.
 
-corrected and add to One Wheel Studio tutorial from https://www.youtube.com/watch?v=TD0R5x0yL0Y
+Corrected and add to One Wheel Studio tutorial from https://www.youtube.com/watch?v=TD0R5x0yL0Y
 
-intergrated Samyam check for duplicate from https://www.youtube.com/watch?v=csqVa2Vimao&list=PLKUARkaoYQT2nKuWy0mKwYURe2roBGJdr&index=30
+Intergrated Samyam check for duplicate from https://www.youtube.com/watch?v=csqVa2Vimao&list=PLKUARkaoYQT2nKuWy0mKwYURe2roBGJdr&index=30
